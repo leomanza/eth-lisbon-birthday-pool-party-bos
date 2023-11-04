@@ -92,7 +92,7 @@ return (
     )}
     {(!projects || !projects.length) && (
       <div className="text-center">
-        <b>You don't have any projects yet. Create one to get started.</b>{" "}
+        <b>You donot have any projects yet. Create one to get started.</b>{" "}
         <br />
         Also check out
         <a
